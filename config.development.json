@@ -1,0 +1,16 @@
+{
+    "database": {
+        "client": "mysql",
+        "connection": {
+            "host": "127.0.0.1",
+            "user": "yourmysqlusername",
+            "password": "yourmysqlpassword",
+            "charset": "utf8",
+            "database": "yourmysqldatabase"
+        },
+        "debug": false
+    },
+    "paths": {
+      "contentPath": "./../../blog/content/"
+    }
+}
