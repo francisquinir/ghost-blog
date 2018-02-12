@@ -1,0 +1,62 @@
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: posts ","time":"2018-02-12T17:45:01.526Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: posts ","time":"2018-02-12T17:45:01.527Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: users ","time":"2018-02-12T17:45:02.690Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: users ","time":"2018-02-12T17:45:02.691Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: roles ","time":"2018-02-12T17:45:04.230Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: roles ","time":"2018-02-12T17:45:04.231Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: roles_users ","time":"2018-02-12T17:45:05.456Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: roles_users ","time":"2018-02-12T17:45:05.456Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: permissions ","time":"2018-02-12T17:45:06.258Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: permissions ","time":"2018-02-12T17:45:06.258Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: permissions_users ","time":"2018-02-12T17:45:07.404Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: permissions_users ","time":"2018-02-12T17:45:07.404Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: permissions_roles ","time":"2018-02-12T17:45:08.257Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: permissions_roles ","time":"2018-02-12T17:45:08.257Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: permissions_apps ","time":"2018-02-12T17:45:09.043Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: permissions_apps ","time":"2018-02-12T17:45:09.044Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: settings ","time":"2018-02-12T17:45:10.370Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: settings ","time":"2018-02-12T17:45:10.370Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: tags ","time":"2018-02-12T17:45:11.500Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: tags ","time":"2018-02-12T17:45:11.500Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: posts_tags ","time":"2018-02-12T17:45:12.724Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: posts_tags ","time":"2018-02-12T17:45:12.724Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: apps ","time":"2018-02-12T17:45:14.470Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: apps ","time":"2018-02-12T17:45:14.470Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: app_settings ","time":"2018-02-12T17:45:15.634Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: app_settings ","time":"2018-02-12T17:45:15.634Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: app_fields ","time":"2018-02-12T17:45:16.930Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: app_fields ","time":"2018-02-12T17:45:16.931Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: clients ","time":"2018-02-12T17:45:18.151Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: clients ","time":"2018-02-12T17:45:18.151Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: client_trusted_domains ","time":"2018-02-12T17:45:20.308Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: client_trusted_domains ","time":"2018-02-12T17:45:20.309Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: accesstokens ","time":"2018-02-12T17:45:21.397Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: accesstokens ","time":"2018-02-12T17:45:21.397Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: refreshtokens ","time":"2018-02-12T17:45:23.173Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: refreshtokens ","time":"2018-02-12T17:45:23.174Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: subscribers ","time":"2018-02-12T17:45:25.630Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: subscribers ","time":"2018-02-12T17:45:25.630Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: invites ","time":"2018-02-12T17:45:26.855Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: invites ","time":"2018-02-12T17:45:26.855Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: brute ","time":"2018-02-12T17:45:28.401Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: brute ","time":"2018-02-12T17:45:28.401Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: webhooks ","time":"2018-02-12T17:45:29.007Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Creating table: webhooks ","time":"2018-02-12T17:45:29.007Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Model: Post ","time":"2018-02-12T17:45:30.760Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Model: Post ","time":"2018-02-12T17:45:30.760Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Model: Tag ","time":"2018-02-12T17:45:38.842Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Model: Tag ","time":"2018-02-12T17:45:38.843Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Model: Client ","time":"2018-02-12T17:45:39.591Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Model: Client ","time":"2018-02-12T17:45:39.591Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Model: Role ","time":"2018-02-12T17:45:41.422Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Model: Role ","time":"2018-02-12T17:45:41.422Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Model: Permission ","time":"2018-02-12T17:45:43.987Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Model: Permission ","time":"2018-02-12T17:45:43.988Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Model: User ","time":"2018-02-12T17:46:13.036Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Model: User ","time":"2018-02-12T17:46:13.036Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Relation: Role to Permission ","time":"2018-02-12T17:46:16.836Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Relation: Role to Permission ","time":"2018-02-12T17:46:16.836Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Relation: Post to Tag ","time":"2018-02-12T17:47:05.274Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Relation: Post to Tag ","time":"2018-02-12T17:47:05.274Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Relation: User to Role ","time":"2018-02-12T17:47:10.685Z","v":0}
+{"name":"Log","hostname":"francisquinir-Inspiron-5557","pid":10699,"level":30,"msg":"Relation: User to Role ","time":"2018-02-12T17:47:10.686Z","v":0}

@@ -6,7 +6,7 @@
             "user": "yourRDSusername",
             "password": "yourRDSpassword",
             "charset": "utf8",
-            "database": "ghost-app-dev"
+            "database": "ghost-app-prod"
         },
         "debug": false
     },
@@ -17,7 +17,7 @@
         "active": "ghost-s3",
         "ghost-s3": {
           "accessKeyId": "yourawsacceskey",
-          "bucket": "yourawsDEVbucket",
+          "bucket": "yourawsPRODbucket",
           "region": "yourawsregion",
           "secretAccessKey": "yourawsaccesskey"
         }
